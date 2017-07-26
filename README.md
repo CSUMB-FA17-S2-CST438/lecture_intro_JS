@@ -1,1 +1,1 @@
-# lecture5-thuhe
+# A sample code to introduce JavaScript in CST438.
